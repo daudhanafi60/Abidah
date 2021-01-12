@@ -1,5 +1,5 @@
 
-const XBOT = '『AMPIBI bot』'; 
+const XBOT = '『Abidah BOT』'; 
 const instagram = 'https://bit.ly/2I4St2Y'; 
 const nomer = 'Wa.me/+6282334297175'; 
 const aktif = 'Tergantung kuota'; 
